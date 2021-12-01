@@ -1,0 +1,29 @@
+.footer
+{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #424242;
+    color: white;
+    text-align: right;
+    padding: 25px;
+    margin-top: 15px;
+}
+
+.footer a i.bx
+{
+    padding-right: 5px;
+    font-size: 20pt;
+}
+
+.footer a
+{
+    padding: 5px;
+    text-decoration: none;
+    font-size: 12pt;
+}
+
+.footer a:hover
+{
+    text-decoration: underline;
+}
